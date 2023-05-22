@@ -11,5 +11,6 @@ May 2023, Tech Training, Nashville
 * Configure Local Machine
 
 ## Kubernetes Discovery Job
+* Create Policy folder
 * Configure TLSP DC Kubernetes Discovery Job
-* 
+* Run Discovery Job
