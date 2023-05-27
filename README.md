@@ -7,9 +7,9 @@ The workshop gaol is to help the team explore the Kubernetes Discovery capabilit
 The workshop also aims at enabling the team members to deliver a working demo on demand
 
 ## Setup
-* [01. Access TLS Protect DC](docs/01-tlspdc)
-* [02. Build Kubernetes Cluster](docs/02-k8scluster)
-* [03. TLS Protect for Kubernetes](docs/03-tlspk)
+* [01. Access TLS Protect DC](docs/01-tlspdc.md)
+* [02. Build Kubernetes Cluster](docs/02-k8scluster.md)
+* [03. TLS Protect for Kubernetes](docs/03-tlspk.md)
 
 ## Kubernetes Discovery Job
 * [04. Create Policy folder]()
