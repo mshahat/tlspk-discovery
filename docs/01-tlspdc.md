@@ -4,33 +4,33 @@
 </p>
 
 <p align="center">
-  <img src="../imgs/tlspc01.png" height="256" width="256" />
+  <img src="../imgs/tlspc01.png" width="512" />
 </p>
 
 <p align="center">
-  <img src="../imgs/tlspc02.png" height="256" width="256" />
+  <img src="../imgs/tlspc02.png" width="512" />
 </p>
 
 <p align="center">
-  <img src="../imgs/tlspc03.png" height="256" width="256" />
+  <img src="../imgs/tlspc03.png" width="512" />
 </p>
 
 <p align="center">
-  <img src="../imgs/tlspc04.png" height="256" width="256" />
+  <img src="../imgs/tlspc04.png" width="512" />
 </p>
 
 <p align="center">
-  <img src="../imgs/tlspc05.png" height="256" width="256" />
+  <img src="../imgs/tlspc05.png" width="512" />
 </p>
 
 <p align="center">
-  <img src="../imgs/tlspc06.png" height="256" width="256" />
+  <img src="../imgs/tlspc06.png" width="512" />
 </p>
 
 <p align="center">
-  <img src="../imgs/tlspc07.png" height="256" width="256" />
+  <img src="../imgs/tlspc07.png" width="512" />
 </p>
 
 <p align="center">
-  <img src="../imgs/tlspc08.png" height="256" width="256" />
+  <img src="../imgs/tlspc08.png" width="512" />
 </p>
