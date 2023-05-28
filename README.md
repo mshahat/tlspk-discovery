@@ -12,7 +12,5 @@ The workshop also aims at enabling the team members to deliver a working demo on
 * [03. TLS Protect for Kubernetes](docs/03-tlspk.md)
 
 ## Kubernetes Discovery Job
-* [04. Create Policy folder]()
-* [05. Configure TLSP DC Kubernetes Discovery Job]()
-* [06. Run Kubernetes Discovery Job]()
-
+* [04. Create Policy folder](docs/04-policyfolder.md)
+* [05. Configure and Run TLSP DC Kubernetes Discovery Job](docs/05-k8sdiscovery.md)
