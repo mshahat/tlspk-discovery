@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="../imgs/tlspc08.png" width="614" />
+  <img src="../../imgs/tlspc08.png" width="614" />
 </p>
 
 
-Next: [Main Menu](../README.md) | [xxx](./02-k8scluster.md)
+Next: [Main Menu](../../README.md) | [xxx]()
