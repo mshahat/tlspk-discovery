@@ -1,4 +1,4 @@
-# 02. Build a Kubernetes cluster
+# 03. Build a Kubernetes cluster
 
 You need a kubernetes cluster for the workshop. An AWS cloudformation template has been prepared for you to use.
 
