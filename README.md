@@ -8,9 +8,10 @@ The workshop also aims at enabling the team members to deliver a working demo on
 
 ## Setup
 * [01. Access TLS Protect DC](docs/01-tlspdc/README.md)
-* [02. Build Kubernetes Cluster](docs/02-k8scluster/README.md)
+* [02. Build a Kubernetes Cluster](docs/02-k8scluster/README.md)
 * [03. TLS Protect for Kubernetes](docs/03-tlspk/README.md)
 
 ## Kubernetes Discovery Job
-* [04. Create Policy folder](docs/04-policyfolder/README.md)
+* [04. Create a Policy folder](docs/04-policyfolder/README.md)
 * [05. Configure and Run TLSP DC Kubernetes Discovery Job](docs/05-k8sdiscovery/README.md)
+
