@@ -15,4 +15,4 @@ Create a folder `Certificates\\Kubernetes`
 </p>
 
 
-Next: [Main Menu](../../README.md) | [xxx]()
+Next: [Main Menu](../../README.md) | [05. Configure and Run TLSP DC Kubernetes Discovery Job](../05-k8sdiscovery/README.md)

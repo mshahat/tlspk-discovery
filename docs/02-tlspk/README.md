@@ -14,4 +14,4 @@ If you are running this workshop against a TLS Protect for Kubernetes Org of you
   <img src="../../imgs/tlspk01.png" width="614" />
 </p>
 
-Next: [Main Menu](../../README.md) | [xxx]()
+Next: [Main Menu](../../README.md) | [03. Build a Kubernetes Cluster](../03-k8scluster/README.md)

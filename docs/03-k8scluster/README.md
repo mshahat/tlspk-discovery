@@ -82,4 +82,4 @@ Monitor this page for updates on the stack progress until it shows `CREATE_COMPL
 </p>
 
 
-Next: [Main Menu](../../README.md) | [xxx]()
+Next: [Main Menu](../../README.md) | [04. Create a Policy folder](../03-k8scluster/README.md)
